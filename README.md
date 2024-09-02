@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/Wmedrado/wmedrado/blob/a085372b780b96095051b943d9110e812458be76/MW-313_menor.JPEG" align="center" width="600" height="600" />
+<img src="https://github.com/Wmedrado/wmedrado/blob/a085372b780b96095051b943d9110e812458be76/MW-313_menor.JPEG" align="center" width="300" height="250" />
 </div>  
   
 
