@@ -1,12 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+William+Medrado+%F0%9F%91%8B;Fullstack+Developer+%7C+.NET+%26+C%23;AI-Augmented+Builder;Always+learning+%E2%80%94+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+William+Medrado+%F0%9F%91%8B;Fullstack+Developer+%7C+.NET+%26+C%23;Building+with+software+and+AI;Always+learning+%E2%80%94+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devwilliam)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wmedrado)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/25256608/william-medrado)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/franckmedrado)
 [![Goblin Exchange](https://img.shields.io/badge/🧙_Goblin_Exchange-6D28D9?style=for-the-badge)](https://goblinexchange.com)
 [![Facilita.tools](https://img.shields.io/badge/🛠_Facilita.tools-10B981?style=for-the-badge)](https://facilita.tools)
@@ -19,9 +18,9 @@
 
 I'm a **Fullstack Developer** from Brazil 🇧🇷, currently working at **PECEGE**, building enterprise solutions with **C# / .NET** on the backend and modern UI on the frontend.
 
-Beyond my 9-to-5, I'm an independent builder — constantly expanding my knowledge, especially at the intersection of **software engineering and AI**. I've been systematically mastering how to use AI tools (GitHub Copilot, Claude, and others) as a force multiplier, enabling a solo developer to ship what would historically require a full team.
+Outside of work, I build products independently and spend a lot of time exploring the intersection of **software engineering, automation, and AI**. I'm especially interested in using AI tools to speed up development, improve decision-making, and help solo builders ship real products faster.
 
-> 💡 *"The best developers aren't those who know everything — they're the ones who learn fast and ship confidently."*
+> 💡 *"The best developers are not the ones who know everything — they're the ones who learn fast, adapt well, and keep shipping."*
 
 ---
 
@@ -33,13 +32,15 @@ Beyond my 9-to-5, I'm an independent builder — constantly expanding my knowled
 
 ### 🧙 [Goblin Exchange](https://goblinexchange.com)
 
-The **#1 gold-making platform** for World of Warcraft. A production-grade web platform featuring:
+A platform focused on **gold-making in World of Warcraft**, built to help players make better decisions with data and practical tools.
 
-- 📈 Real-time Auction House price tracking
+It includes:
+
+- 📈 Auction House price tracking
 - ⚒️ Crafting profit calculators
 - 🗺️ Farming guides with route maps
 - 🤖 34 automated background data jobs
-- 🌍 10 languages · 1,000+ `.cs` files
+- 🌍 Support for 10 languages
 - ☁️ Oracle Cloud ARM + Cloudflare CDN
 
 **Stack:** `C# · .NET 10 · ASP.NET Core MVC · NHibernate · PostgreSQL · Tailwind CSS`
@@ -49,9 +50,9 @@ The **#1 gold-making platform** for World of Warcraft. A production-grade web pl
 
 ### 🛠️ [Facilita.tools](https://facilita.tools)
 
-A growing collection of **practical web tools** built for everyday productivity. Clean, fast, and no-friction.
+A growing collection of **practical web tools** built for everyday productivity — fast, simple, and frictionless.
 
-Built solo with AI assistance, Facilita.tools is a live demonstration of how modern developers can move at product-team speed — taking an idea from zero to production in record time.
+Built solo with AI assistance, Facilita.tools reflects how modern development can move from idea to production quickly, with a strong focus on usefulness and execution.
 
 **Stack:** `C# · .NET · ASP.NET Core · JavaScript · Tailwind CSS`
 
@@ -63,15 +64,17 @@ Built solo with AI assistance, Facilita.tools is a live demonstration of how mod
 
 ## 🤖 AI × Development
 
-I'm a firm believer that the future of software belongs to developers who know how to **collaborate with AI**. I'm continuously expanding my expertise in:
+I use AI as a practical development partner — not as a replacement for engineering fundamentals.
 
-- 🧠 **GitHub Copilot** — AI pair programming integrated into every project
-- 🔬 **Claude (Anthropic)** — Architecture design, complex refactoring, systems thinking
-- 💬 **Prompt Engineering** — Extracting maximum value from LLMs for real technical problems
-- 🏗️ **AI-Assisted Architecture** — Designing production-grade systems with AI as a thought partner
-- 📦 **Agentic Workflows** — Using AI agents to automate repetitive development tasks
+My focus is on applying tools like **GitHub Copilot, Claude, and other LLMs** to:
 
-The outcome? I design, build, and deploy **production-ready platforms** solo — at team scale.
+- accelerate refactoring and implementation
+- explore architecture decisions
+- improve documentation and communication
+- automate repetitive development tasks
+- iterate faster on product ideas
+
+My goal is simple: build useful, production-ready software faster and with better leverage.
 
 ---
 
@@ -112,6 +115,6 @@ The outcome? I design, build, and deploy **production-ready platforms** solo —
 
 📫 **Get in touch →** [linkedin.com/in/devwilliam](https://linkedin.com/in/devwilliam)
 
-*Building at the frontier of AI-assisted development — one product at a time.*
+*Building useful products with software and AI.*
 
 </div>
