@@ -101,11 +101,6 @@ My goal is simple: build useful, production-ready software faster and with bette
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=wmedrado&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0d1117" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wmedrado&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&langs_count=8" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wmedrado&theme=tokyonight&hide_border=true&background=0d1117" />
 </div>
 
