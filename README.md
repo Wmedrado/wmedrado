@@ -1,87 +1,117 @@
 <div align="center">
-<img src="https://github.com/Wmedrado/wmedrado/blob/293484c07ee7c73d8d03cfaaa6fefa17ce91dac7/Imagem%20para%20redes%20sociais.png" align="center" width="300" height="300" />
-</div>  
-  
 
-## <div align="center">Olá, Sou William Medrado👋 
-É um imenso prazer tê-lo no meu perfil !👨‍💻 </div>  
-  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+William+Medrado+%F0%9F%91%8B;Fullstack+Developer+%7C+.NET+%26+C%23;AI-Augmented+Builder;Always+learning+%E2%80%94+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
 
+<br/>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devwilliam)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wmedrado)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/25256608/william-medrado)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/franckmedrado)
+[![Goblin Exchange](https://img.shields.io/badge/🧙_Goblin_Exchange-6D28D9?style=for-the-badge)](https://goblinexchange.com)
+[![Facilita.tools](https://img.shields.io/badge/🛠_Facilita.tools-10B981?style=for-the-badge)](https://facilita.tools)
 
-### Um pouco sobre mim  
-- 🔭  Atualmente, estou trabalhando no PECEGE como Desenvolvedor Fullstack, onde utilizamos C# e .NET como as principais tecnologias no backend.  
-  
-
-- 🌱 Estou sempre em busca de aprender algo novo. Recentemente, tenho me aprofundado em C#, para aprimorar ainda mais minhas habilidades no back-end, além de explorar boas práticas de DevOps para melhorar a integração e a entrega contínua de software.  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+---
 
+## 👨‍💻 About Me
 
+I'm a **Fullstack Developer** from Brazil 🇧🇷, currently working at **PECEGE**, building enterprise solutions with **C# / .NET** on the backend and modern UI on the frontend.
 
-### Backend  
-<div align="center">  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-</div>
+Beyond my 9-to-5, I'm an independent builder — constantly expanding my knowledge, especially at the intersection of **software engineering and AI**. I've been systematically mastering how to use AI tools (GitHub Copilot, Claude, and others) as a force multiplier, enabling a solo developer to ship what would historically require a full team.
 
-</td><td valign="top" width="33%">
+> 💡 *"The best developers aren't those who know everything — they're the ones who learn fast and ship confidently."*
 
+---
 
+## 🚀 What I'm Building
 
-### DevOps  
-<div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
-</div>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-</td></tr></table>  
+### 🧙 [Goblin Exchange](https://goblinexchange.com)
 
-<br/>  
+The **#1 gold-making platform** for World of Warcraft. A production-grade web platform featuring:
 
+- 📈 Real-time Auction House price tracking
+- ⚒️ Crafting profit calculators
+- 🗺️ Farming guides with route maps
+- 🤖 34 automated background data jobs
+- 🌍 10 languages · 1,000+ `.cs` files
+- ☁️ Oracle Cloud ARM + Cloudflare CDN
 
-## Connect with me  
+**Stack:** `C# · .NET 10 · ASP.NET Core MVC · NHibernate · PostgreSQL · Tailwind CSS`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛠️ [Facilita.tools](https://facilita.tools)
+
+A growing collection of **practical web tools** built for everyday productivity. Clean, fast, and no-friction.
+
+Built solo with AI assistance, Facilita.tools is a live demonstration of how modern developers can move at product-team speed — taking an idea from zero to production in record time.
+
+**Stack:** `C# · .NET · ASP.NET Core · JavaScript · Tailwind CSS`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🤖 AI × Development
+
+I'm a firm believer that the future of software belongs to developers who know how to **collaborate with AI**. I'm continuously expanding my expertise in:
+
+- 🧠 **GitHub Copilot** — AI pair programming integrated into every project
+- 🔬 **Claude (Anthropic)** — Architecture design, complex refactoring, systems thinking
+- 💬 **Prompt Engineering** — Extracting maximum value from LLMs for real technical problems
+- 🏗️ **AI-Assisted Architecture** — Designing production-grade systems with AI as a thought partner
+- 📦 **Agentic Workflows** — Using AI agents to automate repetitive development tasks
+
+The outcome? I design, build, and deploy **production-ready platforms** solo — at team scale.
+
+---
+
+## 🛠️ Tech Stack
+
 <div align="center">
-<a href="https://github.com/wmedrado" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/franckmedrado" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/devwilliam" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/25256608/william-medrado" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
 
-<br/>  
+**Backend & Database**
 
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,postgres,mysql,azure)](https://skillicons.dev)
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=wmedrado&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+**Frontend**
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap)](https://skillicons.dev)
 
+**DevOps & Tools**
 
+[![My Skills](https://skillicons.dev/icons?i=git,github,linux,nginx,docker)](https://skillicons.dev)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=wmedrado&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0d1117" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wmedrado&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&langs_count=8" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wmedrado&theme=tokyonight&hide_border=true&background=0d1117" />
+</div>
+
+---
+
+<div align="center">
+
+📫 **Get in touch →** [linkedin.com/in/devwilliam](https://linkedin.com/in/devwilliam)
+
+*Building at the frontier of AI-assisted development — one product at a time.*
+
+</div>
